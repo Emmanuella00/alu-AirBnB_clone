@@ -1,3 +1,8 @@
 #!/usr/bin/python3
-"""Models package for the AirBnB clone project."""
+"""Initialize models package and create storage instance."""
+
+from models.engine.file_storage import FileStorage
+
+storage = FileStorage()
+storage.reload()
 
