@@ -27,7 +27,7 @@ It is designed to provide users with a similar experience for renting and listin
 
 
 
-##Project Structure
+ ## Project Structure
 
 src/ – Application source code
 
@@ -35,7 +35,7 @@ public/ – Static assets (e.g., images, HTML)
 
 tests/ – Unit and integration test files
 
-##Authors
+## Authors
 Merci Nzabinesha
 Emmanuella Ikirezi
 
