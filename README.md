@@ -1,35 +1,45 @@
-alu-AirBnB_clone
+# ALU AirBnB Clone
 
-Description
-ALU AirBnB Project is a clone of the popular AirBnB platform, designed to provide a similar experience for users looking to rent or list properties.
+## Description
+The **ALU AirBnB Clone** is a project inspired by the popular AirBnB platform.  
+It is designed to provide users with a similar experience for renting and listing properties while practicing modern software development skills.
 
-Features
-User authentication and authorization
-Property listing and searching
-Booking management
-Reviews and ratings
-Responsive design
+## Features
+- User authentication and authorization  
+- Property listing and searching  
+- Booking management  
+- Reviews and ratings  
+- Responsive design for seamless use across devices  
 
-Installation
-Clone the repository:
-git clone https://github.com/michael-alu/alu-AirBnB_clone.git
-Navigate to the project directory:
-cd alu-AirBnB_clone
-Install dependencies:
-npm install
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/michael-alu/alu-AirBnB_clone.git
+
+2. Navigate to the project directory:
+
+   cd alu-AirBnB_clone
+
+
+3. Install the required dependencies:
+
+    npm install
 
 Usage
-To run the project locally:
+
+To run the application locally:
 
 npm start
-This will start the development server, and you can access the application at http://localhost:3000.
+
+
 
 Project Structure
-src/ - Contains the source code for the application
-public/ - Static files like images and HTML
-tests/ - Unit and integration tests
 
+src/ – Application source code
 
+public/ – Static assets (e.g., images, HTML)
+
+tests/ – Unit and integration test files
 
 Authors
 Merci Nzabinesha
